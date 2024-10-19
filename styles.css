@@ -38,7 +38,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: var(--stone-100);
-  padding: 50px;
+  margin: 100px;
 }
 
 h1,
